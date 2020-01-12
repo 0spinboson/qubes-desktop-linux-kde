@@ -45,7 +45,7 @@ Requires: plasma-breeze-qubes
 
 Source0: kfileplaces-bookmarks.xml
 Source1: kickoffrc
-source2: kscreensaverrc
+Source2: kscreensaverrc
 Source3: plasma-org.kde.plasma.desktop-appletsrc
 
 %description
